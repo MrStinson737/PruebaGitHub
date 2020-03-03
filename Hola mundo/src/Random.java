@@ -36,5 +36,5 @@ public class Random {
 		System.out.println("Correcto");
 		System.out.println("Has usado "+ intentos + " intentos");
 	}
-
+	
 }
